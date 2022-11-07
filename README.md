@@ -77,7 +77,7 @@
             </tr>
             <tr>
                 <td><img src="badges/380259620692.png" width="120px" alt="Desenvolvimento Seguro"></td>
-                <td></td>
+                <td><img src="badges/380259620714.png" width="120px" alt="SSDLC na prática"></td>
                 <td><img src="badges/380259620669.png" width="120px" alt="Regulatórios"></td>
                 <td><img src="badges/426780171280.png" width="120px" alt="Cloud Sec"></td>
                 <td></td>
