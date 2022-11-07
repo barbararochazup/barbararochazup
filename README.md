@@ -60,7 +60,7 @@
 
 <!-- NÃO ALTERE O BLOCO ABAIXO -->
 <!-- ALERTA:  Qualquer conteúdo dentro desse bloco sera removido, não adicione conteúdo próprio -->
-<div id="d72bfb5ed8b7db20ac3e9aba575d0992">
+<div id="9ce43ee3f2cc5ec81c728406da466c6e">
     <table border="1px" width="300px" align="center">
         <thead align="center">
             <tr>
@@ -79,7 +79,7 @@
                 <td><img src="badges/380259620692.png" width="120px" alt="Desenvolvimento Seguro"></td>
                 <td></td>
                 <td><img src="badges/380259620669.png" width="120px" alt="Regulatórios"></td>
-                <td></td>
+                <td><img src="badges/426780171280.png" width="120px" alt="Cloud Sec"></td>
                 <td></td>
             </tr>
         </tbody>
