@@ -57,9 +57,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=barbararochazup&count_private=true" alt="rossalli" /></p>
 
+
 <!-- NÃO ALTERE O BLOCO ABAIXO -->
 <!-- ALERTA:  Qualquer conteúdo dentro desse bloco sera removido, não adicione conteúdo próprio -->
-<div id="e0a14899b5fc359bdcecbc90b6a4e7ba">
+<div id="d72bfb5ed8b7db20ac3e9aba575d0992">
     <table border="1px" width="300px" align="center">
         <thead align="center">
             <tr>
@@ -76,8 +77,8 @@
             </tr>
             <tr>
                 <td><img src="badges/380259620692.png" width="120px" alt="Desenvolvimento Seguro"></td>
-                <td><img src="badges/380259620714.png" width="120px" alt="SSDLC na prática"></td>
                 <td></td>
+                <td><img src="badges/380259620669.png" width="120px" alt="Regulatórios"></td>
                 <td></td>
                 <td></td>
             </tr>
