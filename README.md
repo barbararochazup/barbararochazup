@@ -58,9 +58,10 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=barbararochazup&count_private=true" alt="rossalli" /></p>
 
 
+
 <!-- NÃO ALTERE O BLOCO ABAIXO -->
 <!-- ALERTA:  Qualquer conteúdo dentro desse bloco sera removido, não adicione conteúdo próprio -->
-<div id="9ce43ee3f2cc5ec81c728406da466c6e">
+<div id="ea43d9d116409a2f2a101fc96b64d529">
     <table border="1px" width="300px" align="center">
         <thead align="center">
             <tr>
@@ -80,7 +81,7 @@
                 <td><img src="badges/380259620714.png" width="120px" alt="SSDLC na prática"></td>
                 <td><img src="badges/380259620669.png" width="120px" alt="Regulatórios"></td>
                 <td><img src="badges/426780171280.png" width="120px" alt="Cloud Sec"></td>
-                <td></td>
+                <td><img src="badges/379589427342.png" width="120px" alt="Security Champion"></td>
             </tr>
         </tbody>
     </table>
